@@ -11,6 +11,11 @@ body {
   background-position: left;
 }
 
+.color-negro{
+  color: white;
+  letter-spacing: 2px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
