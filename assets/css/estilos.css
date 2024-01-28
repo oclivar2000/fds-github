@@ -16,6 +16,12 @@ body {
   letter-spacing: 2px;
 }
 
+
+.custom-background {
+  background-color: #EBCC9A; 
+  color: #000000; 
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
